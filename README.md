@@ -1,4 +1,4 @@
-# tapiaveronica
+
 # Hola, soy Verónica Tapia 👋
 ### Estudiante de Licenciatura en Sistemas (UNJu) | QA & Testing en Sistemas de Salud
 
